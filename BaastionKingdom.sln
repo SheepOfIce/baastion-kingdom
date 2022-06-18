@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baastion-kingdom", "baastion-kingdom\baastion-kingdom.esproj", "{A308BACD-0BD9-489C-915F-1D1655A5FA43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaastionKingdom", "BaastionKingdom\BaastionKingdom.csproj", "{A3381BDB-3DC8-4F4A-A388-E608DB86FDF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A308BACD-0BD9-489C-915F-1D1655A5FA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A308BACD-0BD9-489C-915F-1D1655A5FA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A308BACD-0BD9-489C-915F-1D1655A5FA43}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A308BACD-0BD9-489C-915F-1D1655A5FA43}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A3381BDB-3DC8-4F4A-A388-E608DB86FDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3381BDB-3DC8-4F4A-A388-E608DB86FDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3381BDB-3DC8-4F4A-A388-E608DB86FDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3381BDB-3DC8-4F4A-A388-E608DB86FDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
