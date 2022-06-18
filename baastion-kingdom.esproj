@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.26-alpha">
+    <PropertyGroup Label="Globals">
+        <ProjectGuid>a308bacd-0bd9-489c-915f-1d1655a5fa43</ProjectGuid>
+    </PropertyGroup>
+    <PropertyGroup>
+        <StartupCommand>npm run dev</StartupCommand>
+        <JavaScriptTestRoot>.\</JavaScriptTestRoot>
+        <JavaScriptTestFramework>Jest</JavaScriptTestFramework>
+    </PropertyGroup>
+    <ItemGroup>
+      <Folder Include="cypress\e2e" />
+      <Folder Include="cypress\fixtures" />
+      <Folder Include="cypress\support" />
+      <Folder Include="public" />
+      <Folder Include="src\components\__tests__" />
+    </ItemGroup>
+</Project>
